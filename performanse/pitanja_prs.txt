@@ -1,0 +1,14 @@
+1. GPSS - koje slovo oznacava tip metrike?
+2. k=? n=5, SSA, SST poznato
+3. Skale : mjerenje zvuka logaritmom, tezina rutera, performanse test, Kervin, Farad
+4. Ako se vise sviceva predstavi kao ruter, koja je to aproksimacija?
+5. Formule za SSA, SSE, SST
+6. upgrade sa 5 na 10 - aritmeticka
+7. Utilizacioni zakon
+8. Koji mehanizam generisanja dogadjaja je najslicniji emulaciji?
+9. Dinamicke - kontinualna i diskretna
+10. P=? 20p/s 50ms (dobije se rjesenje 0)
+11. Xm-1=? hi kvadrat test
+12. Koliko ce testova proci (bile su 3 tabele)
+13. (5 + 3) mod 8 
+14. M/M/1 pa treba oznaciti netacno (bilo je znacenje slova M, svi imaju isti prioritet, smatramo li da je zatvorena mreza(ne zbog jednostavnosti), svi dolaze u istim intervalima)

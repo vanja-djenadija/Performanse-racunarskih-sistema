@@ -1,0 +1,19 @@
+Skala za Iq test 
+Kojoj skali odgovara Hi kvardrat, kojoj koeficijent varijacije, kojoj snova
+Koliko mora biti np da bi bila gasova raspodjela
+Ako staviš umjesto jednog procesora dva sta se desi sa prosjecnim pristizAnjem
+Koja je pretpostavka u amdalovom zakonu
+Koje faze nisu iterativne
+Dijagram simulacionog procesa
+Zadato n treba izračunati intenzitet posla i odnos vjerovatnoce da je broj poslova jednak tri i minimalno tri
+Formula za w
+Formula za r
+Kad je metrika deterministički
+Sc^2 a zadano k, n , sse
+Sse? F,k,n,SST
+Monte Karlo sa pet tačak
+
+Imaš dva sistema i pitanje je u kojim situacijama raste interval povjerenja na osnovu formule
+
+Sta je fiksno a šta promenljivo kod Amdalovog zakona
+Generator 4x + 1 mod 9
