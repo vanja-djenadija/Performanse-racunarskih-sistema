@@ -1,7 +1,8 @@
 # Performanse-racunarskih-sistema
 Meterijali za polaganje ispita
 
-Za tačnost rješenja zadataka u folderu **materijali** ne odgovaram :)
+Za tačnost rješenja zadataka u folderu **performanse** ne odgovaram :)
+
 Rješenja u nastavku bi trebalo da su tačna, ili ako nešto nije dobro to je i naznačeno.
 
 ## Predrok 2022
